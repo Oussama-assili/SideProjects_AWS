@@ -1,4 +1,4 @@
-# S3 Backups & Lifecycle (Python Only)
+# S3 Backups & Lifecycle
 
 This project demonstrates how to manage **S3 backups** and **lifecycle rules** using Python + boto3.
 
